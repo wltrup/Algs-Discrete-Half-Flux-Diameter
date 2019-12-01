@@ -1,6 +1,10 @@
 # Discrete Half Flux Diameter
 
-A colleague interested in astrophotography asked me for an algorithm to compute the _half-flux diameter_ of an image. Originally written on February 3, 2013.
+A colleague interested in astrophotography asked me for an algorithm to compute the _half-flux diameter_ of an image.
+
+It turns out that the recipes commonly found on the internet are actually incorrect so I had to analyse the problem in an excruciatingly mathematical detail to devise a correct algorithm.
+
+Originally written on February 3, 2013.
 
 ![](HFD.png)
 
